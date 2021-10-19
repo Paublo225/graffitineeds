@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.5 (swiftlang-1300.0.31.1 clang-1300.0.29.1)"
+options: "2d168f227085d3119139e7f68dcec4654af33f669eb5584ea8e12d04f9d32364"
+build_start_time: [1632395505, 392632007]
+build_end_time: [1632395505, 428977012]
+inputs:
+  "/Users/pavel/Desktop/Projects/graffitineeds/ios/Runner/AppDelegate.swift": !private [1625174794, 0]

@@ -1,0 +1,22 @@
+dependencies: \
+  /Users/pavel/Desktop/Projects/graffitineeds/ios/Runner/GeneratedPluginRegistrant.m \
+  /Users/pavel/Desktop/Projects/graffitineeds/ios/Runner/GeneratedPluginRegistrant.h \
+  /Users/pavel/Desktop/Projects/graffitineeds/build/ios/Debug-iphonesimulator/Flutter.framework/Modules/module.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/usr/include/mach-o/compact_unwind_encoding.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.5.sdk/usr/include/mach-o/dyld.modulemap \
+  /Users/pavel/Desktop/Projects/graffitineeds/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterViewController.h \
+  /Users/pavel/Desktop/Projects/graffitineeds/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterPluginAppLifeCycleDelegate.h \
+  /Users/pavel/Desktop/Projects/graffitineeds/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterHeadlessDartRunner.h \
+  /Users/pavel/Desktop/Projects/graffitineeds/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterEngineGroup.h \
+  /Users/pavel/Desktop/Projects/graffitineeds/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterEngine.h \
+  /Users/pavel/Desktop/Projects/graffitineeds/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterDartProject.h \
+  /Users/pavel/Desktop/Projects/graffitineeds/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterCallbackCache.h \
+  /Users/pavel/Desktop/Projects/graffitineeds/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterTexture.h \
+  /Users/pavel/Desktop/Projects/graffitineeds/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterPlatformViews.h \
+  /Users/pavel/Desktop/Projects/graffitineeds/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterCodecs.h \
+  /Users/pavel/Desktop/Projects/graffitineeds/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterChannels.h \
+  /Users/pavel/Desktop/Projects/graffitineeds/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterBinaryMessenger.h \
+  /Users/pavel/Desktop/Projects/graffitineeds/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterPlugin.h \
+  /Users/pavel/Desktop/Projects/graffitineeds/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterMacros.h \
+  /Users/pavel/Desktop/Projects/graffitineeds/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterAppDelegate.h \
+  /Users/pavel/Desktop/Projects/graffitineeds/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/Flutter.h
