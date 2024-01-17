@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "941956442053",
+    "project_id": "graffitineeds-c48c1",
+    "storage_bucket": "graffitineeds-c48c1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:941956442053:android:4116076dad98a4b5d08dac",
+        "android_client_info": {
+          "package_name": "com.paublo.graffitineeds"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "941956442053-9lue1s8rrnp0c41gu0camkc9sd6kooho.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYAsaSvvXZkUc2bB_Dhdr9pHwXjRpHbvI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "941956442053-9lue1s8rrnp0c41gu0camkc9sd6kooho.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "941956442053-59iqhv8gt30pkvtsnqm3cdmgg6gqa5qp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.paublo.graffitineeds0"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
